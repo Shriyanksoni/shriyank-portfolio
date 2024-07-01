@@ -5,7 +5,5 @@ import { BrowserRouter } from 'react-router-dom'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
-  <App />
-</BrowserRouter>
+<div>HELLO</div>
 )
